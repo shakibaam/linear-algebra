@@ -1,2 +1,2 @@
 # linear-algebra
-some signal processing with python
+some linear algebra concepts with python
